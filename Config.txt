@@ -1,0 +1,26 @@
+
+DB_HOST --> localhost
+
+DB_NAME --> prueba
+
+DB_USERNAME --> root
+
+DB_PASSWORD --> rootroot
+
+DB_PORT --> 3306
+
+SSL --> 0
+
+SEND_EMAIL --> 0
+
+EMAIL_HOST --> 
+
+EMAIL_PORT --> 
+
+EMAIL_USERNAME --> 
+
+EMAIL_PASSWORD --> 
+
+EMAIL_FROM --> 
+
+EMAIL_TO --> 
